@@ -7,5 +7,87 @@
             "All images loaded in reyhaneh1998/Daily_life_reyhaneh project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "kyle-glenn-_AR74EoWdy0-unsplash"
+                ]
+            },
+            "height": 3840,
+            "width": 5760,
+            "items": [
+                {
+                    "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 180,
+                                                "height": 120
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 240
+                                            },
+                                            {
+                                                "width": 720,
+                                                "height": 480
+                                            },
+                                            {
+                                                "width": 1440,
+                                                "height": 960
+                                            },
+                                            {
+                                                "width": 2880,
+                                                "height": 1920
+                                            },
+                                            {
+                                                "width": 5760,
+                                                "height": 3840
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 5760,
+                                        "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3840
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
