@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 161,
+    "height" : 107
+  }, {
+    "width" : 321,
+    "height" : 214
+  }, {
+    "width" : 641,
+    "height" : 427
+  }, {
+    "width" : 1281,
+    "height" : 854
+  }, {
+    "width" : 2561,
+    "height" : 1707
+  }, {
+    "width" : 5122,
+    "height" : 3414
+  } ],
+  "profile" : "level0",
+  "width" : 5122,
+  "id" : "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/marvin-meyer-wiwkUgfd0dE-unsplash",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3414
+}
