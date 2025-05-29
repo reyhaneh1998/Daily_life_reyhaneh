@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "rodrigo-foggiato-_qO-P7wem5o-unsplash"
+                ]
+            },
+            "height": 3264,
+            "width": 4896,
+            "items": [
+                {
+                    "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 153,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 306,
+                                                "height": 204
+                                            },
+                                            {
+                                                "width": 612,
+                                                "height": 408
+                                            },
+                                            {
+                                                "width": 1224,
+                                                "height": 816
+                                            },
+                                            {
+                                                "width": 2448,
+                                                "height": 1632
+                                            },
+                                            {
+                                                "width": 4896,
+                                                "height": 3264
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4896,
+                                        "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3264
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/marvin-meyer-wiwkUgfd0dE-unsplash/canvas/",
             "type": "Canvas",
             "label": {
@@ -90,26 +171,26 @@
             ]
         },
         {
-            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/canvas/",
+            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "rodrigo-foggiato-_qO-P7wem5o-unsplash"
+                    "nguy-n-ng-c-PUBET4b3giM-unsplash"
                 ]
             },
-            "height": 3264,
-            "width": 4896,
+            "height": 6667,
+            "width": 5000,
             "items": [
                 {
-                    "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/annotation/AnnoPage",
+                    "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/annotation/",
+                            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/full/max/0/default.jpg",
+                                "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash/full/max/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -130,41 +211,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 153,
-                                                "height": 102
+                                                "width": 157,
+                                                "height": 209
                                             },
                                             {
-                                                "width": 306,
-                                                "height": 204
+                                                "width": 313,
+                                                "height": 417
                                             },
                                             {
-                                                "width": 612,
-                                                "height": 408
+                                                "width": 625,
+                                                "height": 834
                                             },
                                             {
-                                                "width": 1224,
-                                                "height": 816
+                                                "width": 1250,
+                                                "height": 1667
                                             },
                                             {
-                                                "width": 2448,
-                                                "height": 1632
+                                                "width": 2500,
+                                                "height": 3334
                                             },
                                             {
-                                                "width": 4896,
-                                                "height": 3264
+                                                "width": 5000,
+                                                "height": 6667
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 4896,
-                                        "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash",
+                                        "width": 5000,
+                                        "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 3264
+                                        "height": 6667
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/rodrigo-foggiato-_qO-P7wem5o-unsplash/canvas/"
+                            "target": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash/canvas/"
                         }
                     ]
                 }

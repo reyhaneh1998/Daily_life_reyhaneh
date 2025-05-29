@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 157,
+    "height" : 209
+  }, {
+    "width" : 313,
+    "height" : 417
+  }, {
+    "width" : 625,
+    "height" : 834
+  }, {
+    "width" : 1250,
+    "height" : 1667
+  }, {
+    "width" : 2500,
+    "height" : 3334
+  }, {
+    "width" : 5000,
+    "height" : 6667
+  } ],
+  "profile" : "level0",
+  "width" : 5000,
+  "id" : "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/nguy-n-ng-c-PUBET4b3giM-unsplash",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 6667
+}
