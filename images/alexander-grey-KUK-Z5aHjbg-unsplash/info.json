@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 117,
+    "height" : 176
+  }, {
+    "width" : 234,
+    "height" : 351
+  }, {
+    "width" : 468,
+    "height" : 702
+  }, {
+    "width" : 936,
+    "height" : 1404
+  }, {
+    "width" : 1872,
+    "height" : 2808
+  }, {
+    "width" : 3744,
+    "height" : 5616
+  } ],
+  "profile" : "level0",
+  "width" : 3744,
+  "id" : "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/alexander-grey-KUK-Z5aHjbg-unsplash",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 5616
+}
