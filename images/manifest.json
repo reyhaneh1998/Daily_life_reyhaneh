@@ -495,6 +495,87 @@
             ]
         },
         {
+            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "iewek-gnos-hhUx08PuYpc-unsplash"
+                ]
+            },
+            "height": 3024,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 189
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 378
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 756
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1512
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 3024
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4032,
+                                        "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3024
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/iewek-gnos-hhUx08PuYpc-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://reyhaneh1998.github.io/Daily_life_reyhaneh/images/kyle-glenn-_AR74EoWdy0-unsplash/canvas/",
             "type": "Canvas",
             "label": {
